@@ -1,10 +1,12 @@
 .corpo{
-  background-color: blue;
+  background-color: rgb(255, 255, 255);
 }
-.titulo{   
-  font-size: 50px;color: white;background:red ;text-align: center;
-}  
-.texto-imc{
+
+.titulo{
+  font-size: 50px;color:white;background:gold ;text-align: center;
+}
+
+.text-imc{
   font-size: 50px;
   text-align: center;
 }
